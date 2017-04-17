@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18258b27-8974-47da-baa6-3d4872f6d121" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App.xcodeproj/project.xcworkspace/xcuserdata/brianlarson2.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App.xcodeproj/xcuserdata/brianlarson2.xcuserdatad/xcschemes/Conversion Mobile App.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App.xcodeproj/xcuserdata/brianlarson2.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/AppDelegate.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Conversions Icon.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Conversions Icon.imageset/ConversionsIcon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Functions Icon.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Functions Icon.imageset/FunctionsIcon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Home Icon.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Home Icon.imageset/HomeIcon2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Test Conversion Formula.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Test Conversion Formula.imageset/Test Conversion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Base.lproj/LaunchScreen.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile App/ViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile AppTests/Conversion_Mobile_AppTests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile AppTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile AppUITests/Conversion_Mobile_AppUITests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conversion Mobile App/Conversion Mobile AppUITests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0.xcodeproj/project.xcworkspace/xcuserdata/brianlarson2.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0.xcodeproj/project.xcworkspace/xcuserdata/zacharyvargas.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/brianlarson2.xcuserdatad/xcschemes/ConversionApp2.0.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/brianlarson2.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/zacharyvargas.xcuserdatad/xcschemes/ConversionApp2.0.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/zacharyvargas.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0/AppDelegate.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0/Base.lproj/LaunchScreen.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0/ViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0Tests/ConversionApp2_0Tests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0Tests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0UITests/ConversionApp2_0UITests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionApp2.0/ConversionApp2.0UITests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App.xcodeproj/project.xcworkspace/xcuserdata/brianlarson2.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App.xcodeproj/xcuserdata/brianlarson2.xcuserdatad/xcschemes/Conversion Mobile App.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App.xcodeproj/xcuserdata/brianlarson2.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/AppDelegate.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Conversions Icon.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Conversions Icon.imageset/ConversionsIcon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Functions Icon.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Functions Icon.imageset/FunctionsIcon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Home Icon.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Home Icon.imageset/HomeIcon2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Test Conversion Formula.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Test Conversion Formula.imageset/Test Conversion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Base.lproj/LaunchScreen.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile App/ViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile AppTests/Conversion_Mobile_AppTests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile AppTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile AppUITests/Conversion_Mobile_AppUITests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Conversion Mobile App/Conversion Mobile AppUITests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/MANIFEST.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/currentRun/core/uniquing/arrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/currentRun/core/uniquing/arrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/currentRun/core/uniquing/typedArrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/currentRun/core/uniquing/typedArrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run1/core/core-config/exposedTableInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run1/core/table-manager/tables.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run1/core/uniquing/TOC" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run1/core/uniquing/arrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run1/core/uniquing/arrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run1/core/uniquing/strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run1/core/uniquing/typedArrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run1/core/uniquing/typedArrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run2/core/core-config/exposedTableInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run2/core/table-manager/tables.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run2/core/uniquing/TOC" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run2/core/uniquing/arrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run2/core/uniquing/arrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run2/core/uniquing/strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run2/core/uniquing/typedArrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run2/core/uniquing/typedArrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run3/core/core-config/exposedTableInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run3/core/table-manager/tables.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run3/core/uniquing/TOC" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run3/core/uniquing/arrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run3/core/uniquing/arrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run3/core/uniquing/strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run3/core/uniquing/typedArrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run3/core/uniquing/typedArrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run4/core/core-config/exposedTableInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run4/core/table-manager/tables.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run4/core/uniquing/TOC" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run4/core/uniquing/arrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run4/core/uniquing/arrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run4/core/uniquing/strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run4/core/uniquing/typedArrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run4/core/uniquing/typedArrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run5/core/core-config/exposedTableInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run5/core/table-manager/tables.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run5/core/uniquing/TOC" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run5/core/uniquing/arrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run5/core/uniquing/arrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run5/core/uniquing/strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run5/core/uniquing/typedArrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run5/core/uniquing/typedArrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run6/core/core-config/exposedTableInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run6/core/table-manager/tables.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run6/core/uniquing/TOC" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run6/core/uniquing/arrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run6/core/uniquing/arrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run6/core/uniquing/strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run6/core/uniquing/typedArrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run6/core/uniquing/typedArrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run7/core/core-config/exposedTableInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run7/core/table-manager/tables.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run7/core/uniquing/TOC" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run7/core/uniquing/arrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run7/core/uniquing/arrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run7/core/uniquing/strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run7/core/uniquing/typedArrayUniquer/integeruniquer.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/corespace/run7/core/uniquing/typedArrayUniquer/integeruniquer.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/form.template" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/instrument_data/1E2B732A-6DCA-48F6-9272-CF92DECBC024/run_data/1.run.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/instrument_data/1E2B732A-6DCA-48F6-9272-CF92DECBC024/run_data/2.run.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/instrument_data/1E2B732A-6DCA-48F6-9272-CF92DECBC024/run_data/3.run.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/instrument_data/1E2B732A-6DCA-48F6-9272-CF92DECBC024/run_data/4.run.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/instrument_data/1E2B732A-6DCA-48F6-9272-CF92DECBC024/run_data/5.run.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/instrument_data/1E2B732A-6DCA-48F6-9272-CF92DECBC024/run_data/6.run.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/AutomatedTestScript.trace/instrument_data/1E2B732A-6DCA-48F6-9272-CF92DECBC024/run_data/7.run.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0.xcodeproj/project.xcworkspace/xcuserdata/brianlarson2.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0.xcodeproj/project.xcworkspace/xcuserdata/brianlarson2.xcuserdatad/WorkspaceSettings.xcsettings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0.xcodeproj/project.xcworkspace/xcuserdata/zacharyvargas.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/brianlarson2.xcuserdatad/xcschemes/ConversionApp2.0.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/brianlarson2.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/zacharyvargas.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/zacharyvargas.xcuserdatad/xcschemes/ConversionApp2.0.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/zacharyvargas.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/AppDelegate.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/2gill1cup.imageset/2gill1cup@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/2gill1cup.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Acres2Hectares.imageset/Acres2Hectares@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Acres2Hectares.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Acres2SqFeet.imageset/Acres2SqFeet@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Acres2SqFeet.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Acres2SqMeters.imageset/Acres2SqMeters@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Acres2SqMeters.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Acres2SqYards.imageset/Acres2SqYards@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Acres2SqYards.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/AppIcon.appiconset/ConversionApp2.0 App Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Conversions Button.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Conversions Button.imageset/Conversions Button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Convert Button.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Convert Button.imageset/Convert@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Converter Button.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Converter Button.imageset/Converter Button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Delete Button.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Delete Button.imageset/Delete@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Formulas Button.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Formulas Button.imageset/Formulas Button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Ft2In.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Ft2In.imageset/Ft2In@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Ft2cm.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Ft2cm.imageset/Ft2cm@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Ft2m.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Ft2m.imageset/Ft2m@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Ft2mm.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Ft2mm.imageset/Ft2mm@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Save Button.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Save Button.imageset/Save@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Update Button.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/Update Button.imageset/Update@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/View Button.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/View Button.imageset/View@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cm2ft.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cm2ft.imageset/cm2ft@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cm2in.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cm2in.imageset/cm2in@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cm^2 2 in^2.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cm^2 2 in^2.imageset/cm^2 2 in^2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cm^32in^3.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cm^32in^3.imageset/cm^32in^3@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cup2floz.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cup2floz.imageset/cup2floz@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cup2pints.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cup2pints.imageset/cup2pints@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cup2tbsp.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/cup2tbsp.imageset/cup2tbsp@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/ft^2 2 acres.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/ft^2 2 acres.imageset/ft^2 2 acres@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/ft^2 2 cm^2.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/ft^2 2 cm^2.imageset/ft^2 2 cm^2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/ft^2 2 in^2.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/ft^2 2 in^2.imageset/ft^2 2 in^2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/g^floz.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/g^floz.imageset/g^floz@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/gal2in^3.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/gal2in^3.imageset/gal2in^3@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/gal2l.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/gal2l.imageset/gal2l@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/gal2ml.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/gal2ml.imageset/gal2ml@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/gill2ml.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/gill2ml.imageset/gill2ml@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/in2cm.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/in2cm.imageset/in2cm@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/in2mm.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/in2mm.imageset/in2mm@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/in^32cm^3.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/in^32cm^3.imageset/in^32cm^3@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/kg2lb.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/kg2lb.imageset/kg2lb@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/kg2oz.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/kg2oz.imageset/kg2oz@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/km2ft.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/km2ft.imageset/km2ft@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/km2mi.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/km2mi.imageset/km2mi@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/km2yd.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/km2yd.imageset/km2yd@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/l2floz.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/l2floz.imageset/l2floz@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/l2gal.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/l2gal.imageset/l2gal@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/l2in^3.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/l2in^3.imageset/l2in^3@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/l2pt.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/l2pt.imageset/l2pt@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/lb2kg.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/lb2kg.imageset/lb2kg@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/m2ft.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/m2ft.imageset/m2ft@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/m2in.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/m2in.imageset/m2in@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/mi2ft.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/mi2ft.imageset/mi2ft@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/mi2km.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/mi2km.imageset/mi2km@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/mph2fpm.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/mph2fpm.imageset/mph2fpm@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/mph2kph.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/mph2kph.imageset/mph2kph@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/tonu2kg.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/tonu2kg.imageset/tonu2kg@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/tonu2lb.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/tonu2lb.imageset/tonu2lb@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Base.lproj/LaunchScreen.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/ConversionApp2.0-Bridging-Header.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/ConverterViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/ConverterViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/ViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0/myData.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0Tests/ConversionApp2_0Tests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0Tests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0UITests/ConversionApp2_0UITests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionApp2.0/ConversionApp2.0UITests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App.xcodeproj/project.xcworkspace/xcuserdata/brianlarson2.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App.xcodeproj/xcuserdata/brianlarson2.xcuserdatad/xcschemes/Conversion Mobile App.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App.xcodeproj/xcuserdata/brianlarson2.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/AppDelegate.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Conversions Icon.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Conversions Icon.imageset/ConversionsIcon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Functions Icon.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Functions Icon.imageset/FunctionsIcon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Home Icon.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Home Icon.imageset/HomeIcon2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Test Conversion Formula.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Assets.xcassets/Test Conversion Formula.imageset/Test Conversion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Base.lproj/LaunchScreen.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile App/ViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile AppTests/Conversion_Mobile_AppTests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile AppTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile AppUITests/Conversion_Mobile_AppUITests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/Conversion Mobile App/Conversion Mobile AppUITests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0.xcodeproj/project.xcworkspace/xcuserdata/brianlarson2.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0.xcodeproj/project.xcworkspace/xcuserdata/zacharyvargas.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/brianlarson2.xcuserdatad/xcschemes/ConversionApp2.0.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/brianlarson2.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/zacharyvargas.xcuserdatad/xcschemes/ConversionApp2.0.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0.xcodeproj/xcuserdata/zacharyvargas.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0/AppDelegate.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0/Base.lproj/LaunchScreen.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0/ViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0Tests/ConversionApp2_0Tests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0Tests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0UITests/ConversionApp2_0UITests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionApp2.0/ConversionApp2.0UITests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp(current)/ConversionMobileApp_Part1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp_Part1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/ConversionMobileApp_Part5.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/2gill1cup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/Acres2Hectares.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/Acres2SqFeet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/Acres2SqMeters.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/Acres2SqYards.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/Ft2In.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/Ft2cm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/Ft2m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/Ft2mm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/cm2ft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/cm2in.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/cm^2 2 in^2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/cm^32in^3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/cup2floz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/cup2pints.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/cup2tbsp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/ft^2 2 acres.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/ft^2 2 cm^2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/ft^2 2 in^2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/g^floz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/gal2in^3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/gal2l.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/gal2mm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/generalconversions.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/gill2ml.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/in2cm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/in2mm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/in^32cm^3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/kg2lb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/kg2oz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/km2ft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/km2mi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/km2yd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/l2floz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/l2gal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/l2in^3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/l2pt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/lb2kg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/m2ft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/m2in.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/mi2ft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/mi2km.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/mph2fpm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/mph2kph.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/tonu2kg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/Formula/tonu2lb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/UserAcceptanceTests.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/documentation/ConverterViewController_h/Classes/ConverterViewController/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/documentation/ConverterViewController_h/Classes/ConverterViewController/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/documentation/ConverterViewController_h/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp/documentation/ConverterViewController_h/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ConversionMobileApp_Part1.pdf" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="GalToLitTable.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GalToLitTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/GalToLitTable.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="5" />
+    <option name="y" value="30" />
+    <option name="width" value="1260" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GalToLitTable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GalToLitTable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GalToLitTable">
+    <configuration default="false" name="GalToLitTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="GalToLitTable" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GalToLitTable" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GalToLitTable" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.GalToLitTable" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.GalToLitTable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18258b27-8974-47da-baa6-3d4872f6d121" name="Default" comment="" />
+      <created>1491886460511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491886460511</updated>
+      <workItem from="1491886461855" duration="487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="487000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="5" y="30" width="1260" height="701" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/GalToLitTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
